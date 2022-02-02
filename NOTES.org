@@ -1,0 +1,3 @@
+# +STARTUP: hidestars
+# +STARTUP: odd
+* Hasura demo
